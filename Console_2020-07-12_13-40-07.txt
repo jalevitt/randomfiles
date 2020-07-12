@@ -1,0 +1,61 @@
+Console Log Started at Local Time: 2020-07-12_13-40-07
+Screen Resolution: 1536 X 864
+Welcome to the Processing-based OpenBCI GUI!
+For more information, please visit: https://openbci.github.io/Documentation/docs/06Software/01-OpenBCISoftware/GUIDocs
+TopNav: Internet Connection Not Available
+Local GUI Version: 500
+OpenBCI_GUI::Setup: Sample Data exists in Documents folder.
+ControlP5 2.2.6 infos, comments, questions at http://www.sojamo.de/libraries/controlP5
+The file "C:\Users\Josh Levitt\Documents\OpenBCI_GUI\Settings\UserPlaybackHistory.json" is missing or inaccessible, make sure the URL is valid or that the file has been added to your sketch and is readable.
+OpenBCI_GUI::Control Panel: Playback history file not found or other error.
+null
+OpenBCI_GUI::Setup: Setup is complete!
+sourceList: click! 
+Channel count set to 8
+[DEFAULT]: Attempting to Start Session...
+initButtonPressed: Calling initSystem() after next draw()
+OpenBCI_GUI: Start session. Calling initSystem().
+
+
+=================================================
+||             INITIALIZING SYSTEM             ||
+=================================================
+
+Channel count set to 8
+InitSettings: Saving Default Settings to file!
+SoftwareSettings: 3 active widgets saved!
+The file "C:\Users\Josh Levitt\Documents\OpenBCI_GUI\Settings\SynthEightUserSettings.json" is missing or inaccessible, make sure the URL is valid or that the file has been added to your sketch and is readable.
+InitSettings: C:\Users\Josh Levitt\Documents\OpenBCI_GUI\Settings\SynthEightUserSettings.json not found or other error.
+[DEFAULT]: The new data source is SYNTHETIC (algorithmic) and NCHAN = [8]. User Settings Error: Default Settings Loaded.
+New widget [3] selected for container...
+Your cursor is in Accelerometer
+Networking Data Types || show num dropdowns = 6
+Networking: Protocol mode set to LSL. Stopping network
+Networking Data Types || show num dropdowns = 6
+[DEFAULT]: Data stream started.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\Josh Levitt\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2020-07-12_13-40-20\OpenBCI-RAW-2020-07-12_13-41-09.txt
+Stream update numChan to 8
+nPointsPerUpdate 10
+dataToSend len: 80
+Networking: StringList size=5 [ "TimeSeries", "obci_eeg1", "EEG", "8", "false" ]
+[DEFAULT]: Network Stream Started
+[DEFAULT]: Attempting to use your default browser to launch: https://github.com/OpenBCI/OpenBCI_GUI/issues
+[DEFAULT]: Attempting to use your default browser to launch: https://github.com/OpenBCI/OpenBCI_GUI/issues
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: Data stream started.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\Josh Levitt\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2020-07-12_13-40-20\OpenBCI-RAW-2020-07-12_13-48-23.txt
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: Data stream started.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: C:\Users\Josh Levitt\Documents\OpenBCI_GUI\Recordings\OpenBCISession_2020-07-12_13-40-20\OpenBCI-RAW-2020-07-12_14-12-12.txt
+[DEFAULT]: Network Stream Stopped
+[DEFAULT]: Data stream stopped.
+OpenBCI_GUI: mousePressed: clicked in CP box
+OpenBCI_GUI: mousePressed: clicked in CP box
+[INFO]: Learn how to use this application and more at openbci.github.io/Documentation/
+openBCI_GUI: haltSystem: Halting system for reconfiguration of settings...
+Already stopped streaming, do nothing
+SoftwareSettings: 3 active widgets saved!
+The file "C:\Users\Josh Levitt\Documents\OpenBCI_GUI\Settings\UserPlaybackHistory.json" is missing or inaccessible, make sure the URL is valid or that the file has been added to your sketch and is readable.
+OpenBCI_GUI::Control Panel: Playback history file not found or other error.
+null
+SHUTDOWN HOOK
